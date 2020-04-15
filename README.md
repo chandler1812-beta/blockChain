@@ -1,5 +1,5 @@
 # blockChain
-This is a simple code java code that simulates working of a block chain.
+This is a simple java code that simulates working of a block chain.
 This code doesn't implement blockchain technology , rather this code was used to demonstrate the creation of a simple blockchain
 
 There are three classes Block.java, Transaction.java and Chain.java.
